@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="231e0a18-ba90-464b-82b9-e79cf9b2c373" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ossystem.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemVacancies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemVacanciesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemMainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemMainPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemMainPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemMainPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemVacanciesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemVacanciesTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/WebSitesTest.OssystemMainPageTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/WebSitesTest.OssystemMainPageTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/WebSitesTest.OssystemVacanciesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/WebSitesTest.OssystemVacanciesTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Ossystem.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/WebSitesTest/OssystemVacancies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -42,6 +46,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -56,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WebSitesTest in Ossystem">
+  <component name="RunManager" selected="JUnit.OssystemMainPageTest">
     <configuration name="OssystemMainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Ossystem" />
       <option name="PACKAGE_NAME" value="WebSitesTest" />
@@ -66,11 +73,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OssystemMainPageTest.testMethod3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OssystemMainPageTest.testMethod1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Ossystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebSitesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="PACKAGE_NAME" value="WebSitesTest" />
       <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemMainPageTest" />
-      <option name="METHOD_NAME" value="testMethod3" />
+      <option name="METHOD_NAME" value="testMethod1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.WebSitesTest in Ossystem" />
         <item itemvalue="JUnit.OssystemMainPageTest" />
+        <item itemvalue="JUnit.OssystemMainPageTest.testMethod1" />
+        <item itemvalue="JUnit.WebSitesTest in Ossystem" />
         <item itemvalue="JUnit.OssystemVacanciesTest.testMethod1" />
         <item itemvalue="JUnit.OssystemMainPageTest.testMethod6" />
-        <item itemvalue="JUnit.OssystemMainPageTest.testMethod3" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +151,12 @@
       <updated>1571665203040</updated>
       <workItem from="1571665205759" duration="20205000" />
       <workItem from="1571814231783" duration="1844000" />
+      <workItem from="1571832089782" duration="752000" />
+      <workItem from="1571836773406" duration="532000" />
+      <workItem from="1571837486049" duration="66000" />
+      <workItem from="1571838938412" duration="131000" />
+      <workItem from="1571839656006" duration="443000" />
+      <workItem from="1571840188019" duration="413000" />
     </task>
     <servers />
   </component>
@@ -149,7 +168,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

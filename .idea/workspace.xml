@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="231e0a18-ba90-464b-82b9-e79cf9b2c373" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ossystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemVacancies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemVacanciesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Ossystem.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/WebSitesTest/OssystemVacancies.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SW2o84hg016m7B4wYQzifkMoBG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.WebSitesTest in Ossystem">
+    <configuration name="OssystemMainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ossystem" />
+      <option name="PACKAGE_NAME" value="WebSitesTest" />
+      <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemMainPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssystemMainPageTest.testMethod3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ossystem" />
+      <option name="PACKAGE_NAME" value="WebSitesTest" />
+      <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemMainPageTest" />
+      <option name="METHOD_NAME" value="testMethod3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssystemMainPageTest.testMethod6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ossystem" />
+      <option name="PACKAGE_NAME" value="WebSitesTest" />
+      <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemMainPageTest" />
+      <option name="METHOD_NAME" value="testMethod6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssystemVacanciesTest.testMethod1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ossystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebSitesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebSitesTest" />
+      <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemVacanciesTest" />
+      <option name="METHOD_NAME" value="testMethod1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSitesTest in Ossystem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ossystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebSitesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebSitesTest" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WebSitesTest in Ossystem" />
+        <item itemvalue="JUnit.OssystemMainPageTest" />
+        <item itemvalue="JUnit.OssystemVacanciesTest.testMethod1" />
+        <item itemvalue="JUnit.OssystemMainPageTest.testMethod6" />
+        <item itemvalue="JUnit.OssystemMainPageTest.testMethod3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="231e0a18-ba90-464b-82b9-e79cf9b2c373" name="Default Changelist" comment="" />
+      <created>1571665203040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571665203040</updated>
+      <workItem from="1571665205759" duration="20205000" />
+      <workItem from="1571814231783" duration="1844000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="false" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+</project>

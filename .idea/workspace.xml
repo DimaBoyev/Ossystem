@@ -2,17 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="231e0a18-ba90-464b-82b9-e79cf9b2c373" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/MuteUserViaProfileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/MuteUserViaSparkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/off/NotificationOffTestLikeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationAcceptFollowRequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationMessageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationNewFollowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationResparkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationSparkToInstantTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestData/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestData/TestData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemMainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemMainPageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemMainPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemMainPageTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemVacanciesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemVacanciesTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/WebSitesTest.OssystemMainPageTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/WebSitesTest.OssystemMainPageTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/WebSitesTest.OssystemVacanciesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/WebSitesTest.OssystemVacanciesTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Ossystem.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestData/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestData/TestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/WebSitesTest/OssystemMainPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WebSitesTest/OssystemMainPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/WebSitesTest/OssystemVacanciesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WebSitesTest/OssystemVacanciesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/HomeScreen/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/HomeScreen/HeaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/HomeScreen/HomeScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/HomeScreen/HomeScreenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Instants/Instants1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Instants/InstantsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Likes/Likes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Likes/LikesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/MuteUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/NotificationReply.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationReplyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/NotificationRespark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/NotificationsLike.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationsLikeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Registration/WelcomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Registration/WelcomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/RepliesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies5Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies6Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies7Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/ReportForSpark/ReportForSpark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/ReportForSpark/ReportForSparkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Sparks/ShareSpark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Sparks/ShareSparkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Sparks/SparksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Sparks/SparksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/TestData/MethodsForTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/TestData/MethodsForTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/TestData/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/TestData/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/HomeScreen/Header.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/HomeScreen/HomeScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Instants/Instants1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Likes/Likes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/MuteBlockUser/BlockUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/MuteBlockUser/BlockUser1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/MuteBlockUser/BlockUser2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/MuteBlockUser/BlockUser3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/MuteBlockUser/MuteUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Notifications/NotificationReply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Notifications/NotificationsLike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Registration/Registration.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/target/test-classes/Registration/Registration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Registration/WelcomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/target/test-classes/Registration/WelcomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Replies/Replies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Replies/Replies1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Replies/Replies3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Replies/Replies4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Replies/Replies5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Replies/Replies6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Replies/Replies7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/ReportForSpark/ReportForSpark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Sparks/ShareSpark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Sparks/SparksTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/target/test-classes/Sparks/SparksTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/TestData/MethodsForTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/target/test-classes/TestData/MethodsForTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/TestData/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/target/test-classes/TestData/TestData.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,17 +127,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OssystemMainPageTest">
-    <configuration name="OssystemMainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Ossystem" />
-      <option name="PACKAGE_NAME" value="WebSitesTest" />
-      <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemMainPageTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OssystemMainPageTest.testMethod1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.WebSitesTest in Ossystem">
+    <configuration name="OssystemMainPageTest.testMethod3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Ossystem" />
       <extension name="coverage">
         <pattern>
@@ -83,18 +138,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="WebSitesTest" />
       <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemMainPageTest" />
-      <option name="METHOD_NAME" value="testMethod1" />
+      <option name="METHOD_NAME" value="testMethod3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OssystemMainPageTest.testMethod6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OssystemVacanciesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Ossystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebSitesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="PACKAGE_NAME" value="WebSitesTest" />
-      <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemMainPageTest" />
-      <option name="METHOD_NAME" value="testMethod6" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemVacanciesTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,6 +170,22 @@
       <option name="PACKAGE_NAME" value="WebSitesTest" />
       <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemVacanciesTest" />
       <option name="METHOD_NAME" value="testMethod1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssystemVacanciesTest.testMethod2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ossystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebSitesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebSitesTest" />
+      <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemVacanciesTest" />
+      <option name="METHOD_NAME" value="testMethod2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.OssystemMainPageTest" />
-        <item itemvalue="JUnit.OssystemMainPageTest.testMethod1" />
         <item itemvalue="JUnit.WebSitesTest in Ossystem" />
+        <item itemvalue="JUnit.OssystemVacanciesTest" />
+        <item itemvalue="JUnit.OssystemVacanciesTest.testMethod2" />
         <item itemvalue="JUnit.OssystemVacanciesTest.testMethod1" />
-        <item itemvalue="JUnit.OssystemMainPageTest.testMethod6" />
+        <item itemvalue="JUnit.OssystemMainPageTest.testMethod3" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +233,12 @@
       <workItem from="1571838938412" duration="131000" />
       <workItem from="1571839656006" duration="443000" />
       <workItem from="1571840188019" duration="413000" />
+      <workItem from="1571841366182" duration="598000" />
+      <workItem from="1571981973397" duration="1053000" />
+      <workItem from="1572250629316" duration="1551000" />
+      <workItem from="1572329969026" duration="204000" />
+      <workItem from="1572332373948" duration="102000" />
+      <workItem from="1572419227037" duration="203000" />
     </task>
     <servers />
   </component>

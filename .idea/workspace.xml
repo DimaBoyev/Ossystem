@@ -2,22 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="231e0a18-ba90-464b-82b9-e79cf9b2c373" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser4Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/MuteUserViaProfileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/MuteUserViaSparkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/off/NotificationOffTestLikeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationAcceptFollowRequestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationMessageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationNewFollowerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationResparkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationSparkToInstantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GermanLanding/.idea/GermanLanding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GermanLanding/GermanLanding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GermanLanding/src/test/java/Tests/EmailSendTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ItalianLanding/.idea/ItalianLanding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ItalianLanding/ItalianLanding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Ossystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScandinavianLanding/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScandinavianLanding/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScandinavianLanding/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScandinavianLanding/.idea/ScandinavianLanding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScandinavianLanding/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScandinavianLanding/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScandinavianLanding/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScandinavianLanding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScandinavianLanding/ScandinavianLanding.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestData/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestData/TestData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemMainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemMainPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemVacanciesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/WebSitesTest/OssystemVacanciesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemMainPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemMainPageTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemVacanciesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-WebSitesTest.OssystemVacanciesTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/WebSitesTest.OssystemMainPageTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/WebSitesTest.OssystemMainPageTest.txt" afterDir="false" />
@@ -26,36 +32,41 @@
       <change beforePath="$PROJECT_DIR$/target/test-classes/WebSitesTest/OssystemMainPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WebSitesTest/OssystemMainPageTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/WebSitesTest/OssystemVacanciesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/WebSitesTest/OssystemVacanciesTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/HomeScreen/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/HomeScreen/HeaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/HomeScreen/HomeScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/HomeScreen/HomeScreenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Instants/Instants1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Instants/InstantsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Likes/Likes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Likes/LikesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/HomeScreen/Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/HomeScreen/HomeScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Instants/Instants1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Likes/Likes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/BlockUser3.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/MuteBlockUser/MuteUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/NotificationReply.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationReplyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/NotificationReply.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/NotificationRespark.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/NotificationsLike.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/on/NotificationsLikeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Notifications/NotificationsLike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Registration/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Registration/Registration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Registration/WelcomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Registration/WelcomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/RepliesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies1Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies3Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies4Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies5Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies6Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies7Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/ReportForSpark/ReportForSpark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/ReportForSpark/ReportForSparkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Sparks/ShareSpark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Sparks/ShareSparkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Sparks/SparksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/Sparks/SparksTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/TestData/MethodsForTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/TestData/MethodsForTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Replies/Replies7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/ReportForSpark/ReportForSpark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Sparks/ShareSpark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/Sparks/SparksTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/TestData/MethodsForTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/TestData/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/TestData/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/src/test/java/TestData/elementSelectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/src/test/java/TestData/elementSelectors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/HomeScreen/Header.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/HomeScreen/HomeScreen.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Instants/Instants1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Likes/Likes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/META-INF/2cents.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/MuteBlockUser/BlockUser.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/MuteBlockUser/BlockUser1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/MuteBlockUser/BlockUser2.class" beforeDir="false" />
@@ -74,11 +85,11 @@
       <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Replies/Replies7.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/ReportForSpark/ReportForSpark.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Sparks/ShareSpark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Sparks/SparksTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/target/test-classes/Sparks/SparksTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/TestData/MethodsForTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/target/test-classes/TestData/MethodsForTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/Sparks/SparksTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/TestData/MethodsForTests.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/TestData/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/target/test-classes/TestData/TestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2cents/target/test-classes/TestData/elementSelectors.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_2cents/target/test-classes/TestData/elementSelectors.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,32 +114,25 @@
   </component>
   <component name="ProjectId" id="1SW2o84hg016m7B4wYQzifkMoBG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.WebSitesTest in Ossystem">
-    <configuration name="OssystemMainPageTest.testMethod3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.OssystemVacanciesTest.testMethod1">
+    <configuration name="OssystemMainPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Ossystem" />
       <extension name="coverage">
         <pattern>
@@ -138,7 +142,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="WebSitesTest" />
       <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemMainPageTest" />
-      <option name="METHOD_NAME" value="testMethod3" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssystemMainPageTest.testMethod1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ossystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebSitesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebSitesTest" />
+      <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemMainPageTest" />
+      <option name="METHOD_NAME" value="testMethod1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,7 +167,7 @@
       <module name="Ossystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WebSitesTest.*" />
+          <option name="PATTERN" value="TestData.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,7 +182,7 @@
       <module name="Ossystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WebSitesTest.*" />
+          <option name="PATTERN" value="TestData.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,27 +194,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OssystemVacanciesTest.testMethod2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Ossystem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="WebSitesTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="WebSitesTest" />
-      <option name="MAIN_CLASS_NAME" value="WebSitesTest.OssystemVacanciesTest" />
-      <option name="METHOD_NAME" value="testMethod2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WebSitesTest in Ossystem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Ossystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WebSitesTest.*" />
+          <option name="PATTERN" value="TestData.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,13 +210,25 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OssystemVacanciesTest.testMethod1" />
         <item itemvalue="JUnit.WebSitesTest in Ossystem" />
         <item itemvalue="JUnit.OssystemVacanciesTest" />
-        <item itemvalue="JUnit.OssystemVacanciesTest.testMethod2" />
-        <item itemvalue="JUnit.OssystemVacanciesTest.testMethod1" />
-        <item itemvalue="JUnit.OssystemMainPageTest.testMethod3" />
+        <item itemvalue="JUnit.OssystemMainPageTest" />
+        <item itemvalue="JUnit.OssystemMainPageTest.testMethod1" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -239,6 +254,60 @@
       <workItem from="1572329969026" duration="204000" />
       <workItem from="1572332373948" duration="102000" />
       <workItem from="1572419227037" duration="203000" />
+      <workItem from="1572510746377" duration="1088000" />
+      <workItem from="1572599819656" duration="115000" />
+      <workItem from="1572851960407" duration="123000" />
+      <workItem from="1573026513246" duration="99000" />
+      <workItem from="1573110710655" duration="68000" />
+      <workItem from="1573202048916" duration="1140000" />
+      <workItem from="1573207728231" duration="277000" />
+      <workItem from="1573487583313" duration="65000" />
+      <workItem from="1573539251164" duration="153000" />
+      <workItem from="1573658206241" duration="137000" />
+      <workItem from="1573659367059" duration="726000" />
+      <workItem from="1573742203667" duration="115000" />
+      <workItem from="1573745868440" duration="724000" />
+      <workItem from="1573800132541" duration="1075000" />
+      <workItem from="1574061590166" duration="531000" />
+      <workItem from="1574145982513" duration="182000" />
+      <workItem from="1574174640940" duration="11000" />
+      <workItem from="1574260121068" duration="72000" />
+      <workItem from="1574319793824" duration="142000" />
+      <workItem from="1574403699808" duration="79000" />
+      <workItem from="1574753883713" duration="139000" />
+      <workItem from="1574762423872" duration="2166000" />
+      <workItem from="1574869185731" duration="291000" />
+      <workItem from="1574926035827" duration="652000" />
+      <workItem from="1575269212264" duration="691000" />
+      <workItem from="1575365012831" duration="1302000" />
+      <workItem from="1575473999765" duration="95000" />
+      <workItem from="1575623700986" duration="318000" />
+      <workItem from="1575875242926" duration="844000" />
+      <workItem from="1575903085111" duration="1414000" />
+      <workItem from="1576049852126" duration="398000" />
+      <workItem from="1576478427625" duration="395000" />
+      <workItem from="1576826367498" duration="542000" />
+      <workItem from="1577193018058" duration="1009000" />
+      <workItem from="1577194416613" duration="676000" />
+      <workItem from="1577255978813" duration="1814000" />
+      <workItem from="1577257924232" duration="1301000" />
+      <workItem from="1577367079900" duration="75000" />
+      <workItem from="1577367482862" duration="9000" />
+      <workItem from="1577949846035" duration="509000" />
+      <workItem from="1578036736028" duration="83000" />
+      <workItem from="1578039243560" duration="200000" />
+      <workItem from="1578067105831" duration="307000" />
+      <workItem from="1578123178530" duration="159000" />
+      <workItem from="1578472916208" duration="213000" />
+      <workItem from="1578554425952" duration="146000" />
+      <workItem from="1579159398913" duration="971000" />
+      <workItem from="1579160412557" duration="334000" />
+      <workItem from="1579275075349" duration="43000" />
+      <workItem from="1579527112364" duration="59000" />
+      <workItem from="1579530560961" duration="833000" />
+      <workItem from="1579531884352" duration="361000" />
+      <workItem from="1579532429125" duration="96000" />
+      <workItem from="1579533309590" duration="1469000" />
     </task>
     <servers />
   </component>
@@ -257,6 +326,55 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1579159476428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579159476428" />
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577193908882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577193908882" />
+    <state x="735" y="280" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579531291983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="280" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579531291983" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576826764355" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579534781358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579534781358" />
+    <state width="1807" height="285" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576826911636" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579534781357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579534781357" />
+    <state width="1807" height="285" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576826911636" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579534781357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579534781357" />
+    <state width="1807" height="285" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576826911636" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579534781357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579534781357" />
+    <state width="1807" height="285" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576826911636" />
+    <state x="424" y="102" width="1024" height="845" key="SettingsEditor" timestamp="1579532517323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="424" y="102" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579532517323" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1576826746343" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579275109546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579275109546" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579252503986" />
+    <state x="277" y="154" width="1422" height="796" key="new project wizard" timestamp="1575903136332">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="277" y="154" width="1422" height="796" key="new project wizard/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1575903136332" />
   </component>
   <component name="hg4idea.settings">
     <option name="CHECK_INCOMING_OUTGOING" value="false" />

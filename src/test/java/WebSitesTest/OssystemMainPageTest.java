@@ -4,9 +4,6 @@ import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import static TestData.TestData.findElement;
-
-
 public class OssystemMainPageTest extends TestData {
 
     @BeforeClass

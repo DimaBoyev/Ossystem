@@ -19,10 +19,10 @@ public class OssystemVacanciesTest extends TestData {
     public void testMethod1 () {
         waitForElementVisibility("//ul/li[3]/span").click();
         String vacancies = waitForElementVisibility("//div[@class='headerSectionInnerCont']/h2/span").getText();
-        Assert.assertEquals("Открытые вакансии", vacancies);
-        findElement("//div[1][@class='vacanceCel']").click();
-        String requirements = waitForElementVisibility("//div[@class='vacancy_detail__main']/p/u/strong").getText();
-        Assert.assertEquals("Требования", requirements);
+        //Assert.assertEquals("Открытые вакансии", vacancies);
+        waitForElementVisibility("//div[1][@class='vacanceCel']").click();
+        String requirements = waitForElementVisibility("//div[@class='vacancy_detail__main']/p").getText();
+        Assert.assertTrue(waitForElementVisibility("//span[text()='office@ossystem.ua']").getText().toLowerCase().contains("office@ossystem.ua"));
         System.out.println("Vacancies button clickable, vacancies available");
     }
 
@@ -31,7 +31,7 @@ public class OssystemVacanciesTest extends TestData {
     public void testMethod2 () {
         waitForElementVisibility("//ul/li[3]/span").click();
         waitForElementVisibility("//div[@class='mainButtonContent displayBtn displayBtn2']/button").click();
-        waitForElementVisibility("//input[@name='name']").sendKeys("Это тест!!!");
+        waitForElementVisibility("//input[@name='name']").sendKeys("This is test");
         findElement("//input[@name='email']").sendKeys(email);
         findElement("//textarea[@name='message']").sendKeys(yourMessage);
         findElement("//input[@name='cvLink']").sendKeys(resumeUrl);
